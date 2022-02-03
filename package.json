@@ -1,0 +1,20 @@
+{
+  "name": "blackjackgame",
+  "version": "1.0.0",
+  "description": "Creating a BlackJack game which runs in the console.",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Palmen98/BlackJackGame.git"
+  },
+  "author": "Simon Palm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Palmen98/BlackJackGame/issues"
+  },
+  "homepage": "https://github.com/Palmen98/BlackJackGame#readme"
+}
