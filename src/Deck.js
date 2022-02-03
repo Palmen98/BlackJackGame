@@ -9,7 +9,7 @@
   * @class
   * @returns  All 52 numbers in the deck
   */ 
- export class Deck {
+ export default class Deck {
    constructor () {
      this.deck = []
      this.generateDeck()
